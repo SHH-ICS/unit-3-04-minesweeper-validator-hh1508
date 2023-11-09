@@ -15,3 +15,9 @@ grid = [
   [0,0,0]
 ]
 print (validate(grid))
+if (1,1) = 0:
+value + 1
+if (0,1) = 0:
+value + 1
+if (1,0) = 0:
+value + 1
